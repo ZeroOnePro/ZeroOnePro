@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- his -->
 div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                            
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsbeenalongday)](https://hits.seeyoufarm.com)                       
 </div>
 <!-- icons -->
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)	
