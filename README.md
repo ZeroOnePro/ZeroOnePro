@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- icons
+<!-- icons -->
 <div>
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)	
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
+
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
+
 </div>
- -->
+
 
 <!-- git-readme-stat -->
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=itsbeenalongday&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
