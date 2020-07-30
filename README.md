@@ -1,7 +1,8 @@
 # Hi 👋 My name is Seongminyoo
 
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
-I am majoring in computer engineering and software at Ajou University.
+
+** I am majoring in computer engineering and software at Ajou University. **
 
 ## I'm interested in computer engineering and software
 
@@ -21,10 +22,9 @@ I am majoring in computer engineering and software at Ajou University.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
 
-- :earth_americas: Web full stack technology
+- :earth_americas: Web
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Making-website)](https://github.com/Itsbeenalongday/Making-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Front-end-javascript)](https://github.com/Itsbeenalongday/Front-end-javascript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog)](https://github.com/Itsbeenalongday/First-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Healing-blog)
@@ -33,8 +33,26 @@ I am majoring in computer engineering and software at Ajou University.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML)](https://github.com/Itsbeenalongday/Python-for-ML)
 
-- SYSTEM
-(수정중)
+- :eight_spoked_asterisk: System
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System-programming)](https://github.com/Itsbeenalongday/System-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=RaspberryPi)](https://github.com/Itsbeenalongday/RaspberryPi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture)](https://github.com/Itsbeenalongday/Computer-Architecture)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System)](https://github.com/Itsbeenalongday/Operating-System)
+
+- 💲 Programming Language and instruction
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study)](https://github.com/Itsbeenalongday/Python-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
+
+- ❄️ University Assignment
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming)](https://github.com/Itsbeenalongday/Object-oriented-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab)](https://github.com/Itsbeenalongday/Python_lab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algotihtm)](https://github.com/Itsbeenalongday/Algotihtm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure)](https://github.com/Itsbeenalongday/Data-Structure)
 
 
 ## Technonlogy stack
@@ -60,6 +78,8 @@ I am majoring in computer engineering and software at Ajou University.
 
 </div>
 
+
+
 <!-- icons -->
 <div>
 
@@ -68,6 +88,7 @@ I am majoring in computer engineering and software at Ajou University.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
 
 </div>
+
 
 
 <!-- git-readme-stat -->
