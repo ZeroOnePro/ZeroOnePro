@@ -1,15 +1,41 @@
 # Hi 👋 My name is Seongminyoo
 
-## I'm interested in
+![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
+I am majoring in computer engineering and software at Ajou University.
 
--  💻 Algorithm (probelm solving)
+## I'm interested in computer engineering and software
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph)](https://github.com/anuraghazra/github-readme-stats)
+-  💻 Algorithm
 
-- :earth_americas: Web full stack tech
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming)](https://github.com/Itsbeenalongday/Dynamic-Programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Sorting)](https://github.com/Itsbeenalongday/Sorting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph)](https://github.com/Itsbeenalongday/Graph)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force)](https://github.com/Itsbeenalongday/Brute-Force)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=String)](https://github.com/Itsbeenalongday/String)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Greedy)](https://github.com/Itsbeenalongday/Greedy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Mathematical-theory)](https://github.com/Itsbeenalongday/Mathematical-theory)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Stack)](https://github.com/Itsbeenalongday/Stack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Queue)](https://github.com/Itsbeenalongday/Queue)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Deque)](https://github.com/Itsbeenalongday/Deque)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
+
+- :earth_americas: Web full stack technology
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Making-website)](https://github.com/Itsbeenalongday/Making-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Front-end-javascript)](https://github.com/Itsbeenalongday/Front-end-javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog)](https://github.com/Itsbeenalongday/First-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Healing-blog)
+
 - :shipit: Machine learning algorithm
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML)](https://github.com/Itsbeenalongday/Python-for-ML)
+
+- SYSTEM
+(수정중)
+
 
 ## Technonlogy stack
 
