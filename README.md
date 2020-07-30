@@ -58,7 +58,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming)](https://github.com/Itsbeenalongday/Object-oriented-programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab)](https://github.com/Itsbeenalongday/Python_lab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algotihtm)](https://github.com/Itsbeenalongday/Algotihtm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algorihtm)](https://github.com/Itsbeenalongday/Algorihtm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure)](https://github.com/Itsbeenalongday/Data-Structure)
 
 
