@@ -31,10 +31,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsbeenalongday)](https://hits.seeyoufarm.com)
 
-</div>
-
 <!-- icons -->
-<div>
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
@@ -75,6 +72,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Front-end-javascript)](https://github.com/Itsbeenalongday/Front-end-javascript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog)](https://github.com/Itsbeenalongday/First-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Healing-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
+
 
 - :shipit: Machine learning algorithm
 
@@ -89,12 +88,15 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture)](https://github.com/Itsbeenalongday/Computer-Architecture)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System)](https://github.com/Itsbeenalongday/Operating-System)
 
-- 💲 Study Programming Language
+- 💲 Study
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study)](https://github.com/Itsbeenalongday/Python-Study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Linux-instruction)](https://github.com/Itsbeenalongday/Linux-instruction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Git-Study)](https://github.com/Itsbeenalongday/Git-Study)
+
 
 - ❄️ Assignment
 
@@ -102,3 +104,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab)](https://github.com/Itsbeenalongday/Python_lab)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algorithm)](https://github.com/Itsbeenalongday/Algorithm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure)](https://github.com/Itsbeenalongday/Data-Structure)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Programming)](https://github.com/Itsbeenalongday/Computer-Programming)
+
+- 🎅 Reference
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap)](https://github.com/Itsbeenalongday/developer-roadmap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
