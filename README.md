@@ -1,5 +1,6 @@
 # Hi 👋 My name is Seongminyoo
 
+
 <div align=center>
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
@@ -8,7 +9,9 @@
 
 </div>
 
+
 ## I'm interested in computer engineering and software
+
 
 -  💻 Algorithm
 
