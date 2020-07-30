@@ -2,7 +2,7 @@
 
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
 
-** I am majoring in computer engineering and software at Ajou University. **
+**I am majoring in computer engineering and software at Ajou University.**
 
 ## I'm interested in computer engineering and software
 
