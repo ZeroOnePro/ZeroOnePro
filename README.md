@@ -3,7 +3,11 @@
 ## I'm interested in
 
 -  💻 Algorithm (probelm solving)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph)](https://github.com/anuraghazra/github-readme-stats)
+
 - :earth_americas: Web full stack tech
 - :shipit: Machine learning algorithm
 
