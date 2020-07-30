@@ -1,8 +1,12 @@
 # Hi 👋 My name is Seongminyoo
 
+<div align=center>
+  
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
 
 **I am majoring in computer engineering and software at Ajou University.**
+
+</div>
 
 ## I'm interested in computer engineering and software
 
@@ -18,7 +22,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Stack)](https://github.com/Itsbeenalongday/Stack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Queue)](https://github.com/Itsbeenalongday/Queue)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Deque)](https://github.com/Itsbeenalongday/Deque)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=C-Star-Wars)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon)](https://github.com/Itsbeenalongday/C-Star-Wars)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
 
@@ -32,22 +37,24 @@
 - :shipit: Machine learning algorithm
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML)](https://github.com/Itsbeenalongday/Python-for-ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Prediction-of-Traffic-Accident-Risk)](https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk)
 
 - :eight_spoked_asterisk: System
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System-programming)](https://github.com/Itsbeenalongday/System-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=BLESSROOM)](https://github.com/Itsbeenalongday/BLESSROOM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System_programming)](https://github.com/Itsbeenalongday/System_programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=RaspberryPi)](https://github.com/Itsbeenalongday/RaspberryPi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture)](https://github.com/Itsbeenalongday/Computer-Architecture)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System)](https://github.com/Itsbeenalongday/Operating-System)
 
-- 💲 Programming Language and instruction
+- 💲 Study Programming Language
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study)](https://github.com/Itsbeenalongday/Python-Study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
 
-- ❄️ University Assignment
+- ❄️ Assignment
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming)](https://github.com/Itsbeenalongday/Object-oriented-programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab)](https://github.com/Itsbeenalongday/Python_lab)
