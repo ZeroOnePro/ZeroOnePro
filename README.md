@@ -45,7 +45,7 @@
 
 <!-- git-readme-stat -->
 [![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=itsbeenalongday&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbeenalongday&show_icons=true&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/itsbeenalongday)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbeenalongday&show_icons=true&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
