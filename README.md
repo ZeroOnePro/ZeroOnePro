@@ -72,7 +72,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Front-end-javascript)](https://github.com/Itsbeenalongday/Front-end-javascript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog)](https://github.com/Itsbeenalongday/First-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Healing-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Ruby-on-Rails-reference)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
 
 
 - :shipit: Machine learning algorithm
