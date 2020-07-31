@@ -72,43 +72,43 @@
 
 - :earth_americas: Web
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Making-website)](https://github.com/Itsbeenalongday/Making-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Frontend-javascript)](https://github.com/Itsbeenalongday/Frontend-javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog)](https://github.com/Itsbeenalongday/First-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog)](https://github.com/Itsbeenalongday/Healing-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Ruby-on-Rails-reference)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Making-website&theme=cobalt)](https://github.com/Itsbeenalongday/Making-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Frontend-javascript&theme=cobalt)](https://github.com/Itsbeenalongday/Frontend-javascript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog&theme=cobalt)](https://github.com/Itsbeenalongday/First-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog&theme=cobalt)](https://github.com/Itsbeenalongday/Healing-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Ruby-on-Rails-reference&theme=cobalt)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
 
 
 - :shipit: Machine learning algorithm
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML)](https://github.com/Itsbeenalongday/Python-for-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Prediction-of-Traffic-Accident-Risk)](https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML&theme=great-gatsby)](https://github.com/Itsbeenalongday/Python-for-ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Prediction-of-Traffic-Accident-Risk&theme=great-gatsby)](https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk)
 
 - :eight_spoked_asterisk: System
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=BLESSROOM)](https://github.com/Itsbeenalongday/BLESSROOM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System_programming)](https://github.com/Itsbeenalongday/System_programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=RaspberryPi)](https://github.com/Itsbeenalongday/RaspberryPi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture)](https://github.com/Itsbeenalongday/Computer-Architecture)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System)](https://github.com/Itsbeenalongday/Operating-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=BLESSROOM&theme=blue-green)](https://github.com/Itsbeenalongday/BLESSROOM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System_programming&theme=blue-green)](https://github.com/Itsbeenalongday/System_programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=RaspberryPi&theme=blue-green)](https://github.com/Itsbeenalongday/RaspberryPi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture&theme=blue-green)](https://github.com/Itsbeenalongday/Computer-Architecture)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System&theme=blue-green)](https://github.com/Itsbeenalongday/Operating-System)
 
 - 💲 Study
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study)](https://github.com/Itsbeenalongday/Python-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study)](https://github.com/Itsbeenalongday/Javascript-study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Linux-instruction)](https://github.com/Itsbeenalongday/Linux-instruction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Git-Study)](https://github.com/Itsbeenalongday/Git-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study&theme=prussian)](https://github.com/Itsbeenalongday/Python-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study&theme=prussian)](https://github.com/Itsbeenalongday/Javascript-study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet&theme=prussian)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual&theme=prussian)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Linux-instruction&theme=prussian)](https://github.com/Itsbeenalongday/Linux-instruction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Git-Study&theme=prussian)](https://github.com/Itsbeenalongday/Git-Study)
 
 
 - ❄️ Assignment
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming)](https://github.com/Itsbeenalongday/Object-oriented-programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab)](https://github.com/Itsbeenalongday/Python_lab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algorithm)](https://github.com/Itsbeenalongday/Algorithm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure)](https://github.com/Itsbeenalongday/Data-Structure)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Programming)](https://github.com/Itsbeenalongday/Computer-Programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming&theme=tokyonight)](https://github.com/Itsbeenalongday/Object-oriented-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab&theme=tokyonight)](https://github.com/Itsbeenalongday/Python_lab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algorithm&theme=tokyonight)](https://github.com/Itsbeenalongday/Algorithm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure&theme=tokyonight)](https://github.com/Itsbeenalongday/Data-Structure)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Programming&theme=tokyonight)](https://github.com/Itsbeenalongday/Computer-Programming)
 
 - 🎅 Reference
 
