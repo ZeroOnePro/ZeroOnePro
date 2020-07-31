@@ -55,7 +55,7 @@
 
 -  💻 Algorithm
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming)](https://github.com/Itsbeenalongday/Dynamic-Programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming&layout=radical)](https://github.com/Itsbeenalongday/Dynamic-Programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Sorting)](https://github.com/Itsbeenalongday/Sorting)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph)](https://github.com/Itsbeenalongday/Graph)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force)](https://github.com/Itsbeenalongday/Brute-Force)
