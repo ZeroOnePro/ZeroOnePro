@@ -1,4 +1,4 @@
-# Hi 👋 My name is Seongminyoo
+# Hi 👋 My name is Sungminyoo
 
 
 <div align=center>
