@@ -27,7 +27,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://cdn2.iconfinder.com/data/icons/file-extension-1/36/File_ducument_filetype_fileextension_extension_asm-512.png"></code>
 <code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/9923B0495D66434618"></code>
-
+<code><img height="30" src="https://media.vlpt.us/images/leejh3224/post/eeea9dd5-d99a-4b7b-9024-d4866d48ca70/mysql.png"></code>
 
 # Link
 <!-- hit [today / total] -->
