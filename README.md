@@ -65,6 +65,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph&theme=radical)](https://github.com/Itsbeenalongday/Graph)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force&theme=radical)](https://github.com/Itsbeenalongday/Brute-Force)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=String&theme=radical)](https://github.com/Itsbeenalongday/String)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Implement&theme=radical)](https://github.com/Itsbeenalongday/Implement)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Simulation&theme=radical)](https://github.com/Itsbeenalongday/Simulation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Greedy&theme=radical)](https://github.com/Itsbeenalongday/Greedy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Mathematical-theory&theme=radical)](https://github.com/Itsbeenalongday/Mathematical-theory)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Stack&theme=radical)](https://github.com/Itsbeenalongday/Stack)
