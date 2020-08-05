@@ -74,8 +74,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Stack&theme=radical)](https://github.com/Itsbeenalongday/Stack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Queue&theme=radical)](https://github.com/Itsbeenalongday/Queue)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Deque&theme=radical)](https://github.com/Itsbeenalongday/Deque)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=C-Star-Wars&theme=radical)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/C-Star-Wars)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=C-Star-Wars&theme=radical)](https://github.com/Itsbeenalongday/C-Star-Wars)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms&theme=radical)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
 
