@@ -78,6 +78,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms&theme=radical)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=python-for-coding-test&theme=radical)](https://github.com/Itsbeenalongday/python-for-coding-test)
 
 - :earth_americas: Web
 
@@ -110,7 +111,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Linux-instruction&theme=prussian)](https://github.com/Itsbeenalongday/Linux-instruction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Git-Study&theme=prussian)](https://github.com/Itsbeenalongday/Git-Study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Make-auto-shell-script&theme=prussian)](https://github.com/Itsbeenalongday/Make-auto-shell-script)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cheatsheets&theme=prussian)](https://github.com/Itsbeenalongday/cheatsheets)
 
 - ❄️ Assignment
 
@@ -120,7 +121,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure&theme=tokyonight)](https://github.com/Itsbeenalongday/Data-Structure)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Programming&theme=tokyonight)](https://github.com/Itsbeenalongday/Computer-Programming)
 
-- 🎅 Reference
+- 🎅 Information
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap)](https://github.com/Itsbeenalongday/developer-roadmap)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
+
