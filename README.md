@@ -9,8 +9,20 @@
 
 </div>
 
+## To do list
++ 알고리즘, 과제, 스터디  서브모듈화 할 것
+```
+Algorithm
+|
+|---Dynamic-programming
+|
+|--- Graph
 
-# Technology stack
+...
+```
+
+
+## Technology stack
 
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -30,7 +42,7 @@
 <code><img height="30" src="https://media.vlpt.us/images/leejh3224/post/eeea9dd5-d99a-4b7b-9024-d4866d48ca70/mysql.png"></code>
 <code><img height="30" src="https://2.bp.blogspot.com/-93Mt1QRv6Bo/V8G22oUacrI/AAAAAAAAC5k/Id7DOEm558QOBR4kizycJ1iH1yaDp_gCgCLcB/s1600/sqlite.png"></code>
 
-# Link
+## Link
 <!-- hit [today / total] -->
 <div align=center>
 
@@ -44,7 +56,7 @@
 
 </div>
 
-# Statistic
+## Statistic
 <!-- git-readme-stat -->
 
 <div align="center">
@@ -57,7 +69,7 @@
 
 </div>
 
-# I'm interested in computer engineering and software
+## I'm interested in computer engineering and software
 
 
 -  💻 Algorithm
