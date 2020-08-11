@@ -123,7 +123,8 @@
 
 - 🎅 Information
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap)](https://github.com/Itsbeenalongday/developer-roadmap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap&theme=vue-dark)](https://github.com/Itsbeenalongday/developer-roadmap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner&theme=vue-dark)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler&theme=vue-dark)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=goQuality-dev-contents&theme=vue-dark)](https://github.com/Itsbeenalongday/goQuality-dev-contents)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=free-programming-books&theme=vue-dark)](https://github.com/Itsbeenalongday/free-programming-books)
