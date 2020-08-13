@@ -21,6 +21,8 @@ Algorithm
 ...
 ```
 ## 1 day, 1 commit
+<h2 class ="f4 text-normal mb-2"> </h2>
+
 <img src="https://ghchart.rshah.org/Itsbeenalongday" alt="Itsbeenalongday's Github chart" />
 
 ## Technology stack
