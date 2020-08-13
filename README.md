@@ -10,7 +10,7 @@
 </div>
 
 ## To do list
-+ 알고리즘, 과제, 스터디  서브모듈화 할 것
+-[] 알고리즘, 과제, 스터디  서브모듈화 할 것
 ```
 Algorithm
 |
@@ -21,7 +21,7 @@ Algorithm
 ...
 ```
 ## 1 day, 1 commit
-<h2 class ="f4 text-normal mb-2"></h2>
+
 
 <img src="https://ghchart.rshah.org/Itsbeenalongday" alt="Itsbeenalongday's Github chart" />
 
