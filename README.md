@@ -21,8 +21,11 @@ Algorithm
 ...
 ```
 ## 1 day, 1 commit
+<div align = "center">
 
 <img src="https://ghchart.rshah.org/Itsbeenalongday" alt="Itsbeenalongday's Github chart" />
+
+</div>
 
 ## Technology stack
 
