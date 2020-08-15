@@ -97,11 +97,7 @@ Algorithm
 
 - :eight_spoked_asterisk: System
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=BLESSROOM&theme=blue-green)](https://github.com/Itsbeenalongday/BLESSROOM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System_programming&theme=blue-green)](https://github.com/Itsbeenalongday/System_programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=RaspberryPi&theme=blue-green)](https://github.com/Itsbeenalongday/RaspberryPi)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Architecture&theme=blue-green)](https://github.com/Itsbeenalongday/Computer-Architecture)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Operating-System&theme=blue-green)](https://github.com/Itsbeenalongday/Operating-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
  
 - 💲 Study
 
