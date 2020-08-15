@@ -79,23 +79,7 @@ Algorithm
 
 -  💻 Algorithm
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Dynamic-programming&theme=radical)](https://github.com/Itsbeenalongday/Dynamic-Programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Sorting&theme=radical)](https://github.com/Itsbeenalongday/Sorting)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Graph&theme=radical)](https://github.com/Itsbeenalongday/Graph)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Brute-Force&theme=radical)](https://github.com/Itsbeenalongday/Brute-Force)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=String&theme=radical)](https://github.com/Itsbeenalongday/String)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Implement&theme=radical)](https://github.com/Itsbeenalongday/Implement)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Simulation&theme=radical)](https://github.com/Itsbeenalongday/Simulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Greedy&theme=radical)](https://github.com/Itsbeenalongday/Greedy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Mathematical-theory&theme=radical)](https://github.com/Itsbeenalongday/Mathematical-theory)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Stack&theme=radical)](https://github.com/Itsbeenalongday/Stack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Queue&theme=radical)](https://github.com/Itsbeenalongday/Queue)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Deque&theme=radical)](https://github.com/Itsbeenalongday/Deque)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=C-Star-Wars&theme=radical)](https://github.com/Itsbeenalongday/C-Star-Wars)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2019-summer-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=2020-winter-vacation-Baekjoon&theme=radical)](https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ACM-ICPC-Algorithms&theme=radical)](https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=python-for-coding-test&theme=radical)](https://github.com/Itsbeenalongday/python-for-coding-test)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
 
 - :earth_americas: Web
 
