@@ -114,13 +114,10 @@ Algorithm
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Make-auto-script&theme=prussian)](https://github.com/Itsbeenalongday/Make-auto-script)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cheatsheets&theme=prussian)](https://github.com/Itsbeenalongday/cheatsheets)
 
-- ❄️ Assignment
+- ❄️ Assignments
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Object-oriented-programming&theme=tokyonight)](https://github.com/Itsbeenalongday/Object-oriented-programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python_lab&theme=tokyonight)](https://github.com/Itsbeenalongday/Python_lab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Algorithm&theme=tokyonight)](https://github.com/Itsbeenalongday/Algorithm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Data-Structure&theme=tokyonight)](https://github.com/Itsbeenalongday/Data-Structure)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Computer-Programming&theme=tokyonight)](https://github.com/Itsbeenalongday/Computer-Programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
+
 
 - 🎅 Information
 
