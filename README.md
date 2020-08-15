@@ -80,32 +80,18 @@ Algorithm
 <div>
 
 -  💻 Algorithm
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
-
 - :earth_americas: Web
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
-
 - :shipit: Machine learning algorithm
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
-
 - :eight_spoked_asterisk: System
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
- 
 - 💲 Study
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
-
 - ❄️ Assignments
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
-
-
 - 🎅 Information
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap&theme=vue-dark)](https://github.com/Itsbeenalongday/developer-roadmap)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner&theme=vue-dark)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler&theme=vue-dark)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
