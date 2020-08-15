@@ -83,12 +83,7 @@ Algorithm
 
 - :earth_americas: Web
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Making-website&theme=cobalt)](https://github.com/Itsbeenalongday/Making-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Frontend-javascript&theme=cobalt)](https://github.com/Itsbeenalongday/Frontend-javascript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=First-blog&theme=cobalt)](https://github.com/Itsbeenalongday/First-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Healing-blog&theme=cobalt)](https://github.com/Itsbeenalongday/Healing-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Ruby-on-Rails-reference&theme=cobalt)](https://github.com/Itsbeenalongday/Ruby-on-Rails-reference)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
 
 - :shipit: Machine learning algorithm
 
