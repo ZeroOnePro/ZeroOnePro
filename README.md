@@ -8,7 +8,7 @@
 
 </div>
 
-## I'm interested in computer engineering and software
+## My achievements
 
 <div align=center>
 
