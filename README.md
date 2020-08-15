@@ -97,14 +97,7 @@ Algorithm
  
 - 💲 Study
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-Study&theme=prussian)](https://github.com/Itsbeenalongday/Python-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Javascript-study&theme=prussian)](https://github.com/Itsbeenalongday/Javascript-study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cpp-cheatsheet&theme=prussian)](https://github.com/Itsbeenalongday/cpp-cheatsheet)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Markdown-manual&theme=prussian)](https://github.com/Itsbeenalongday/cpp-Markdown-manual)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Linux-instruction&theme=prussian)](https://github.com/Itsbeenalongday/Linux-instruction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Git-Study&theme=prussian)](https://github.com/Itsbeenalongday/Git-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Make-auto-script&theme=prussian)](https://github.com/Itsbeenalongday/Make-auto-script)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=cheatsheets&theme=prussian)](https://github.com/Itsbeenalongday/cheatsheets)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
 
 - ❄️ Assignments
 
