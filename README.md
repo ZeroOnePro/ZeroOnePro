@@ -1,6 +1,5 @@
 # Hi 👋 My name is Sungminyoo
 
-
 <div align=center>
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
@@ -9,17 +8,44 @@
 
 </div>
 
-## To do list
-- [ ] 알고리즘, 과제, 스터디  서브모듈화 할 것
-```
-Algorithm
-|
-|---Dynamic-programming
-|
-|--- Graph
+## I'm interested in computer engineering and software
 
-...
-```
+-  💻 Algorithm
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
+
+- :earth_americas: Web
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
+
+- :shipit: Machine learning algorithm
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
+
+- :eight_spoked_asterisk: System
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
+
+- 💲 Study
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
+
+- ❄️ Assignments
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
+
+- 🎅 Information
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap&theme=vue-dark)](https://github.com/Itsbeenalongday/developer-roadmap)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner&theme=vue-dark)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler&theme=vue-dark)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=goQuality-dev-contents&theme=vue-dark)](https://github.com/Itsbeenalongday/goQuality-dev-contents)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=free-programming-books&theme=vue-dark)](https://github.com/Itsbeenalongday/free-programming-books)
+
+## To do list
+- [ ] spring boot 공부
+- [ ] ps 코테 연습
+
 ## 1 day, 1 commit
 <div align = "center">
 
@@ -71,43 +97,5 @@ Algorithm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbeenalongday&show_icons=true&theme=dark)](https://github.com/Itsbeenalongday)<br/>
 -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-## I'm interested in computer engineering and software
-
-
-<div>
-
--  💻 Algorithm
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
-
-- :earth_americas: Web
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
-
-- :shipit: Machine learning algorithm
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
-
-- :eight_spoked_asterisk: System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
-
-- 💲 Study
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
-
-- ❄️ Assignments
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
-
-- 🎅 Information
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=developer-roadmap&theme=vue-dark)](https://github.com/Itsbeenalongday/developer-roadmap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Interview_Question_for_Beginner&theme=vue-dark)](https://github.com/Itsbeenalongday/Interview_Question_for_Beginner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler&theme=vue-dark)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=goQuality-dev-contents&theme=vue-dark)](https://github.com/Itsbeenalongday/goQuality-dev-contents)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=free-programming-books&theme=vue-dark)](https://github.com/Itsbeenalongday/free-programming-books)
 
 </div>
