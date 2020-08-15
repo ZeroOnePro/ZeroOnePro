@@ -77,6 +77,8 @@ Algorithm
 ## I'm interested in computer engineering and software
 
 
+<div>
+
 -  💻 Algorithm
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
@@ -116,3 +118,5 @@ Algorithm
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=junior-recruit-scheduler&theme=vue-dark)](https://github.com/Itsbeenalongday/junior-recruit-scheduler)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=goQuality-dev-contents&theme=vue-dark)](https://github.com/Itsbeenalongday/goQuality-dev-contents)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=free-programming-books&theme=vue-dark)](https://github.com/Itsbeenalongday/free-programming-books)
+
+</div>
