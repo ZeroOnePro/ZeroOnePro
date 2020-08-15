@@ -92,8 +92,7 @@ Algorithm
 
 - :shipit: Machine learning algorithm
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Python-for-ML&theme=great-gatsby)](https://github.com/Itsbeenalongday/Python-for-ML)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Prediction-of-Traffic-Accident-Risk&theme=great-gatsby)](https://github.com/Itsbeenalongday/Prediction-of-Traffic-Accident-Risk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
 
 - :eight_spoked_asterisk: System
 
