@@ -28,7 +28,8 @@
 - [ ] 헤더파일 정의하고 사용하는 법 익히기 (cpp)
 - [ ] Spring boot 책 읽고 공부
 - [ ] jQuery 생활코딩 강의
-- [ ] ps 코테 연습
+- [ ] 정규표현식이 뭔지 공부해보기
+- [x] ps 코테 연습
 
 ## 1 day, 1 commit
 <div align = "center">
