@@ -41,9 +41,9 @@
 ## Tech stack
 <div align = "center">
 
-**lang**
+**Languages**
 
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/624/318/png-transparent-java-development-kit-android-vulnerability-javanese-muslims-text-logo-malware.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,7 +58,7 @@
 
 <div align = "center">
 
-**library**
+**Librarys**
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/2541853857EA02BC16"></code>
@@ -76,7 +76,7 @@
 
 <div align = "center">
 
-**tool**
+**Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"></code>
