@@ -1,7 +1,5 @@
 # Hi 👋 My name is Sungminyoo
 
-![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
-
 <div align=center>
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
