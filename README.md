@@ -39,8 +39,6 @@
 </div>
 
 ## Tech stack
-<div style="background-image: URL(https://lh3.googleusercontent.com/proxy/-2gJH4TFRDIfn1Dj2nk5hk5cHYBs3r7dawcf6tFKJCmju85bzrvc3JKfFNcx9Sq8OaAHwZ_ut9QiFrUUK4d87RmzB1KQSxyQJ3Edrev4IGs_GAJYWHgs);>
-
 <div align = "center">
 
 **lang**
@@ -84,8 +82,6 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"></code>
 <code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/9923B0495D66434618"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
-
-</div>
 
 </div>
 
