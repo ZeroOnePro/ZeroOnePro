@@ -55,10 +55,10 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-<code><img height="30" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png" /></code>
-<code><img height="30" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></code>
-<code><img height="30" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
-<code><img height="30" width = "50" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
+<code><img height="50" width = "70" src="https://images.anandtech.com/doci/12699/logo_678x452.png" /></code>
+<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></code>
+<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
+<code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
 
 <!--
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -92,8 +92,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Itsbeenalongday)](https://gitlab.com/Itsbeenalongday) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-[![Ruby on Rails](https://img.shields.io/badge/-RubyonRails-yeloow?style=flat&logo=rubyonrails&link=https://github.com/hr)](https://github.com/hritik5102)
-<code><img height="30" width="50" src="https://www.clipartmax.com/png/small/109-1092270_logo-ruby-on-rails.png" /></code>
+<code><img height="50" width="70" src="https://www.clipartmax.com/png/small/109-1092270_logo-ruby-on-rails.png" /></code>
 
 </div>
 
