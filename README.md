@@ -45,13 +45,20 @@
 ## Tech stack
 <div align = "center">
 
-**Languages**
+**Languages & Libraries**
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/Itsbeenalongday)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Itsbeenalongday)](https://github.com/hItsbeenalongday)
-[![JavaScript](https://img.shields.io/badge/-Ruby-critical?style=flat&logo=ruby&link=https://github.com/Itsbeenalongday)](https://github.com/hItsbeenalongday)
+[![Ruby](https://img.shields.io/badge/-Ruby-ff69b4?style=flat&logo=ruby&link=https://github.com/Itsbeenalongday)](https://github.com/hItsbeenalongday)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat&logo=bash&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+<code><img height="30" src="https://images.anandtech.com/doci/12699/logo_678x452.png"></code>
+[![Scikit learn](https://img.shields.io/badge/-Scikitlearn-orange?style=flat&logo=scikitlearn&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![jQeury](https://img.shields.io/badge/-Jqeury-blue?style=flat&logo=jqeury&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 
 <!--
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -64,6 +71,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://cdn2.iconfinder.com/data/icons/file-extension-1/36/File_ducument_filetype_fileextension_extension_asm-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 -->
 </div>
 
