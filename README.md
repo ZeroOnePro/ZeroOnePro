@@ -55,10 +55,9 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-[![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat&logo=bash&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-<code><img height="20" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png" /></code>
+<img height="20" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png" />
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" />
 <img height="30" width = "30" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" />
 
 <!--
@@ -78,19 +77,10 @@
 
 <div align = "center">
 
-**Librarys**
-
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/2541853857EA02BC16"></code>
-
-</div>
-
-<div align = "center">
-
 **DB**
 
-<code><img height="30" src="https://media.vlpt.us/images/leejh3224/post/eeea9dd5-d99a-4b7b-9024-d4866d48ca70/mysql.png"></code>
-<code><img height="30" src="https://2.bp.blogspot.com/-93Mt1QRv6Bo/V8G22oUacrI/AAAAAAAAC5k/Id7DOEm558QOBR4kizycJ1iH1yaDp_gCgCLcB/s1600/sqlite.png"></code>
+[![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 
 </div>
 
