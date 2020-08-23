@@ -43,6 +43,7 @@
 </div>
 
 ## Tech stack
+
 <div align = "center">
 
 **Languages & Libraries**
@@ -55,10 +56,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-<code><img height="50" width = "70" src="https://images.anandtech.com/doci/12699/logo_678x452.png" /></code>
-<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></code>
-<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
-<code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
 -->
 
 <code><img height="50" width = "70" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -73,25 +70,24 @@
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png"></code>
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
-</div>
-
-<div align = "center">
-
-**DB**
-
-[![SQLite](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=sqlite&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-[![MySQL](https://img.shields.io/badge/-MySQL-Orange?style=flat&logo=mysql&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 
 </div>
 
 <div align = "center">
 
-**Tools**
+**Databases**
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Itsbeenalongday)](https://gitlab.com/Itsbeenalongday) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
+<code><img height="50" width = "70" src="https://zodinet.com/wp-content/uploads/2020/02/mysql-logo.jpg" /></code>
+
+</div>
+
+<div align = "center">
+
+**Frameworks & Tools**
+
+<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" /></code>
+<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" /></code>
 <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" /></code>
 
 </div>
