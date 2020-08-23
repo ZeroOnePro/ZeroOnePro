@@ -6,6 +6,8 @@
 
 **I am majoring in computer engineering and software at Ajou University.**
 
+<img align:"middle" src="http://i20.tcafe2a.com/1906/20190620101913_b8f703949955a2d89fec01a9646a7c5e_rsu8.gif" />
+
 </div>
 
 ## My achievements
