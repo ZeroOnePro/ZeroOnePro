@@ -79,7 +79,7 @@
 **Databases**
 
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
-<code><img height="50" width = "70" src="https://zodinet.com/wp-content/uploads/2020/02/mysql-logo.jpg" /></code>
+<code><img height="50" width = "70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" /></code>
 
 </div>
 
