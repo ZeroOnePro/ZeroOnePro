@@ -7,7 +7,7 @@
 **I am majoring in computer engineering and software at Ajou University.**
 
 
-<span align="center"> <img align="middle" src="https://www.tdrip.com/files/attach/images/12771414/017/335/013/44dff27aede771588a04db3950530728.gif" /> dffsad </span>
+<img align="middle" src="http://i30.tcafe2a.com/2001/20200109005649_8969d6cf2cad0a0c795631e23d07b71a_9umw.gif" />
 
 
 </div>
