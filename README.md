@@ -91,8 +91,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Linux](https://img.shields.io/badge/-Linux-yeloow?style=flat&logo=linux&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Ruby on Rails](https://img.shields.io/badge/-Rails-yeloow?style=flat&logo=rails&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat&logo=linux&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Ruby on Rails](https://img.shields.io/badge/-RubyonRails-yeloow?style=flat&logo=rubyonrails&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 </div>
 
