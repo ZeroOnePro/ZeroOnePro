@@ -56,9 +56,10 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 [![Bash](https://img.shields.io/badge/-Bash-lightgrey?style=flat&logo=bash&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-<code><img height="20" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png"></code>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02"></code>
+<code><img height="20" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png" /></code>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
+<img height="30" width = "30" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" />
 
 <!--
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
