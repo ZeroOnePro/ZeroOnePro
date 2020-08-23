@@ -58,7 +58,7 @@
 <img height="20" width = "50" src="https://images.anandtech.com/doci/12699/logo_678x452.png" />
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" />
-<img height="30" width = "30" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" />
+<img height="30" width = "50" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" />
 
 <!--
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -79,8 +79,8 @@
 
 **DB**
 
-[![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![SQLite](https://img.shields.io/badge/-SQLite-informational?style=flat&logo=sqlite&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
+[![MySQL](https://img.shields.io/badge/-MySQL-Orange?style=flat&logo=mysql&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 
 </div>
 
@@ -88,10 +88,11 @@
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"></code>
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/9923B0495D66434618"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Linux](https://img.shields.io/badge/-Linux-yeloow?style=flat&logo=linux&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Ruby on Rails](https://img.shields.io/badge/-Rails-yeloow?style=flat&logo=rails&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 </div>
 
