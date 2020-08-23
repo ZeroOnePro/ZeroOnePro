@@ -46,7 +46,7 @@
 <div align = "center">
 
 **Languages & Libraries**
-
+<!--
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday) 
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/Itsbeenalongday)
@@ -59,19 +59,19 @@
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /></code>
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png" /></code>
 <code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
+-->
 
-<!--
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/624/318/png-transparent-java-development-kit-android-vulnerability-javanese-muslims-text-logo-malware.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/file-extension-1/36/File_ducument_filetype_fileextension_extension_asm-512.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="50" width = "70" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" width = "70" src="https://w7.pngwing.com/pngs/624/318/png-transparent-java-development-kit-android-vulnerability-javanese-muslims-text-logo-malware.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" width = "70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" width = "70" src="https://cdn2.iconfinder.com/data/icons/file-extension-1/36/File_ducument_filetype_fileextension_extension_asm-512.png"></code>
+<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/800px-Gnu-bash-logo.svg.png"></code>
+<code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 -->
 </div>
 
