@@ -92,7 +92,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Itsbeenalongday)](https://gitlab.com/Itsbeenalongday) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/Itsbeenalongday)](https://github.com/Itsbeenalongday)
-<code><img height="50" width="70" src="https://www.clipartmax.com/png/small/109-1092270_logo-ruby-on-rails.png" /></code>
+<code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" /></code>
 
 </div>
 
