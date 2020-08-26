@@ -29,7 +29,7 @@
 </div>
 
 ## To do list
-- [ ] Ruby공부
+- [x] Ruby공부
 - [ ] 헤더파일 정의하고 사용하는 법 익히기 (cpp)
 - [ ] Spring boot 책 읽고 공부
 - [ ] jQuery 생활코딩 강의
