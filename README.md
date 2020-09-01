@@ -22,7 +22,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Reference&theme=vue-dark)](https://github.com/Itsbeenalongday/Reference)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=References&theme=vue-dark)](https://github.com/Itsbeenalongday/References)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Of-one-s-own-script&theme=chartreuse-dark)](https://github.com/Itsbeenalongday/Of-one-s-own-script)
 
 </div>
