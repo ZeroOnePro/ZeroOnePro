@@ -117,6 +117,6 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbeenalongday&show_icons=true&theme=dark)](https://github.com/Itsbeenalongday)<br/>
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
