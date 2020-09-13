@@ -35,13 +35,6 @@
 - [ ] jQuery 생활코딩 강의
 - [ ] 정규표현식이 뭔지 공부해보기
 
-## 1 day, 1 commit
-<div align = "center">
-
-<img src="https://ghchart.rshah.org/Itsbeenalongday" alt="Itsbeenalongday's Github chart" />
-
-</div>
-
 ## Tech stack
 
 <div align = "center">
