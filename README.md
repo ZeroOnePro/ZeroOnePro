@@ -1,5 +1,7 @@
 # Hi 👋 My name is Sungminyoo
 
+왜 이리 이론충 인 것인가? 왜 이리 이론충일 것일까?
+
 <div align=center>
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
