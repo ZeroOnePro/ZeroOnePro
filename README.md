@@ -1,6 +1,6 @@
 # Hi 👋 My name is Sungminyoo
 
-왜 이리 이론충 인 것인가? 왜 이리 이론충일 것일까?
+왜 이리 오류가 나는것인가? 왜 이리 오류가 나는것일까?
 
 <div align=center>
   
