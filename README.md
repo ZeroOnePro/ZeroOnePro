@@ -33,6 +33,7 @@
 
 - [x] Problem Solving - 코테 연습
 - [x] Spring boot 책 읽고 공부 - 강의, 독학
+- [ ] Pytorch, tenserflow 익히기
 - [ ] 헤더파일 정의하고 사용하는 법 익히기 (cpp)
 - [ ] jQuery 생활코딩 강의
 - [ ] 정규표현식이 뭔지 공부해보기
