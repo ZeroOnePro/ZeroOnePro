@@ -1,7 +1,5 @@
 # Hi 👋 My name is Sungminyoo
 
-왜 이리 오류가 나는것인가? 왜 이리 오류가 나는것일까?
-
 <div align=center>
   
 ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
