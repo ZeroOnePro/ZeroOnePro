@@ -1,9 +1,5 @@
 # Hi 👋 My name is Sungminyoo
 
-<div align=center>
-  ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
-</div>
-
 ## My achievements
 
 <div align=center>
