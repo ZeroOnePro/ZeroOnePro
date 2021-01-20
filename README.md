@@ -1,8 +1,8 @@
 # Hi 👋 My name is Sungminyoo
 
 <div align=center>
-  ![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
-  <!-- img align="middle" src="https://i.imgur.com/3Sdo6z8.gif" /-->
+![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
+<!-- img align="middle" src="https://i.imgur.com/3Sdo6z8.gif" /-->
 </div>
 
 ## My achievements
