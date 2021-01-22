@@ -60,10 +60,6 @@
 
 <!-- icons -->
 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
-
 </div>
 
 ## To-Do List
@@ -76,3 +72,8 @@
 - [ ] 정규표현식이 뭔지 공부해보기
 - [ ] 크롤러 만들어보기
 </div>
+
+##
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
