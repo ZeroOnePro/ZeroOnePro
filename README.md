@@ -1,8 +1,6 @@
 # Hi 👋 My name is Sungminyoo
 
-
-
-
+![langes](https://github.com/Itsbeenalongday/github-stats/tree/master/generated/languages.svg)
 
 ## My achievements
 
