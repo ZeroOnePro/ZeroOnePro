@@ -26,6 +26,9 @@
  <code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
 </div>
 
+<div>
+</div>
+
 <div align = "center">
  <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
  <code><img height="50" width = "70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" /></code>
