@@ -1,4 +1,4 @@
-# Hi 👋 My name is Sungminyoo
+# 👋 Introduce Myself...
 
 <div align=center>
  <a href="https://github.com/Itsbeenalongday/github-stats">
