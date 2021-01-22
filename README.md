@@ -26,12 +26,6 @@
  <code><img height="50" width = "70" src="https://t1.daumcdn.net/cfile/tistory/996E164D5B2303AA02" /></code>
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <div align = "center">
  <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
  <code><img height="50" width = "70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" /></code>
@@ -43,6 +37,12 @@
  <code><img height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" /></code>
  <code><img height="50" width="70" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" /></code>
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align=center>
 
