@@ -10,21 +10,6 @@
 </div>
 
 <div align=center>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=References&theme=vue-dark)](https://github.com/Itsbeenalongday/References)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Of-one-s-own-script&theme=chartreuse-dark)](https://github.com/Itsbeenalongday/Of-one-s-own-script)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Insomenia&theme=vision-friendly-dark)](https://github.com/Itsbeenalongday/Insomenia)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ErrorDB&theme=yeblu)](https://github.com/Itsbeenalongday/ErrorDB)
-
-</div>
-
-<div align = "center">
  <code><img height="50" width = "70" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
  <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
  <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" /></code>
@@ -53,12 +38,18 @@
  <code><img height="50" width="70" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" /></code>
 </div>
 
-<!-- hit [today / total] -->
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsbeenalongday)](https://hits.seeyoufarm.com)
-
-<!-- icons -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=References&theme=vue-dark)](https://github.com/Itsbeenalongday/References)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Of-one-s-own-script&theme=chartreuse-dark)](https://github.com/Itsbeenalongday/Of-one-s-own-script)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Insomenia&theme=vision-friendly-dark)](https://github.com/Itsbeenalongday/Insomenia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ErrorDB&theme=yeblu)](https://github.com/Itsbeenalongday/ErrorDB)
 
 </div>
 
@@ -74,7 +65,8 @@
 
 ##
 <div align=center>
- 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsbeenalongday)](https://hits.seeyoufarm.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
