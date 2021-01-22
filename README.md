@@ -3,6 +3,16 @@
 ## My achievements
 
 <div align=center>
+ <a href="https://github.com/Itsbeenalongday/github-stats">
+  
+ ![](https://raw.githubusercontent.com/Itsbeenalongday/github-stats/master/generated/overview.svg)
+ ![](https://github.com/Itsbeenalongday/github-stats/blob/master/generated/languages.svg)
+
+ </a>
+</div>
+
+
+<div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
