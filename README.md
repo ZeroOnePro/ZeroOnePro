@@ -1,7 +1,5 @@
 # Hi 👋 My name is Sungminyoo
 
-## My achievements
-
 <div align=center>
  <a href="https://github.com/Itsbeenalongday/github-stats">
   
@@ -10,7 +8,6 @@
 
  </a>
 </div>
-
 
 <div align=center>
 
@@ -27,8 +24,6 @@
 
 </div>
 
-## To do list
-
 - [x] Problem Solving - 코테 연습
 - [x] Spring boot 책 읽고 공부 - 강의, 독학
 - [ ] Pytorch, tenserflow 익히기
@@ -36,8 +31,6 @@
 - [ ] jQuery 생활코딩 강의
 - [ ] 정규표현식이 뭔지 공부해보기
 - [ ] 크롤러 만들어보기
-
-## Tech stack
 
 <div align = "center">
 
@@ -90,7 +83,6 @@
 
 </div>
 
-## Link
 <!-- hit [today / total] -->
 <div align=center>
 
@@ -101,18 +93,5 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010671258690)](https://www.facebook.com/profile.php?id=100010671258690)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbtjdals1771@ajou.ac.kr)](mailto:dbtjdals1771@ajou.ac.kr)
-
-</div>
-
-## Statistic
-<!-- git-readme-stat -->
-
-<div align="center">
- 
-[![itsbeenalongday's github stats](https://github-readme-stats.vercel.app/api?username=itsbeenalongday&show_icons=true&line_height=21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbeenalongday&show_icons=true&theme=dark)](https://github.com/Itsbeenalongday)<br/>
--->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
