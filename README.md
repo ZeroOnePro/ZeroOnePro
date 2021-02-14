@@ -13,13 +13,29 @@
 
 <code>
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" />
+</code>
+<code> 
 <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/pytorch.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/spring.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
+</code>
+<code>
 <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
 </code>
 
