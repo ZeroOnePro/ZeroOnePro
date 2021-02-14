@@ -13,20 +13,25 @@
 <br/>
 
 <div align=center>
+ 
  <code>
  <img src="https://cdn.svgporn.com/logos/react.svg" width="50" height="50" />
  </code>
+  <code>
+ <img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
+ </code>
+ <code>
+ <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
+ </code>
+ 
+</div>
+
+<div align=center>
  <code>
  <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
  </code>
  <code>
  <img src="https://cdn.svgporn.com/logos/spring.svg" width="50" height="50" />
- </code>
- <code>
- <img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
- </code>
- <code>
- <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
  </code>
  
 </div>
