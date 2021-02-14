@@ -26,7 +26,6 @@
  <code>
  <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
  </code>
- <code>
  
 </div>
 
@@ -52,9 +51,11 @@
 
 </div>
 
-<div>
- 
- </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align=center>
 
