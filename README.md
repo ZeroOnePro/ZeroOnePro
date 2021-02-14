@@ -9,6 +9,7 @@
  </a>
 </div>
 
+<div>
 
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/mysql.svg" style="margin-left:50;" width="50" height="50" />
@@ -20,6 +21,7 @@
 <img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
 
+</div>
 
 <br/>
 <br/>
