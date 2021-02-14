@@ -12,6 +12,7 @@
 <div align = "center">
  <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></code>
  <code><img height="50" width = "70" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" /></code>
+ <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /></code>
 </div>
 
 <div align = "center">
