@@ -29,6 +29,8 @@
  
 </div>
 
+<br/>
+
 <div align=center>
 
  <code>
@@ -43,6 +45,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
  
 <code>
@@ -51,9 +55,6 @@
 
 </div>
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
