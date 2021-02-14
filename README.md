@@ -9,8 +9,12 @@
  </a>
 </div>
 
-<div align=center>
- 
+div[id="frameworks"] {
+  background-color: black;
+}
+
+<div align=center id="frameworks">
+
  <code>
  <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
  </code>
