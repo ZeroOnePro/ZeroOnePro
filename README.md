@@ -10,15 +10,15 @@
 </div>
 
 
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/rails.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/pytorch.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/spring.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/framework7.svg" style="width:50px;height:50px" />
-<img src="https://cdn.svgporn.com/logos/jquery.svg" style="width:50px;height:50px" />
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/rails.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/pytorch.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/spring.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/framework7.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/jquery.svg" style="width:50px;height:50px;" />
 
 
 <br/>
