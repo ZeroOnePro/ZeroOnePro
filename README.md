@@ -9,10 +9,10 @@
  </a>
 </div>
 
-<div>
+<div align=center>
 
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" style="margin-left:50;" width="50" height="50" />
+<code><img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" /></code>
+<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" height="50" />
