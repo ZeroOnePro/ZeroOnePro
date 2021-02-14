@@ -9,7 +9,7 @@
  </a>
 </div>
 
-![Rails](https://cdn.svgporn.com/logos/rails.svg)
+![Rails](https://cdn.svgporn.com/logos/rails.svg =50x70)
 
 <br/>
 <br/>
