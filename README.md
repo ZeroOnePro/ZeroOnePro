@@ -11,14 +11,14 @@
 
 
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/rails.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/pytorch.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/spring.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/framework7.svg" style="width:50px;height:50px;" />
-<img src="https://cdn.svgporn.com/logos/jquery.svg" style="width:50px;height:50px;" />
+<img src="https://cdn.svgporn.com/logos/mysql.svg" style="margin-left:50;" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/pytorch.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/spring.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
+<img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
 
 
 <br/>
