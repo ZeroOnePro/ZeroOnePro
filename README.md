@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<div align=center id="frameworks">
+<div align=center>
 
  <code>
  <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
@@ -52,12 +52,9 @@
 
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<div>
+ 
+ </div>
 
 <div align=center>
 
