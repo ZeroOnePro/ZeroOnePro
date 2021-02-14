@@ -9,7 +9,7 @@
  </a>
 </div>
 
-div[id="frameworks"] {
+img{
   background-color: black;
 }
 
