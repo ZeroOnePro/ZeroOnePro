@@ -9,9 +9,8 @@
  </a>
 </div>
 
-img{
-  background-color: black;
-}
+<br/>
+<br/>
 
 <div align=center id="frameworks">
 
