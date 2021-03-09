@@ -79,14 +79,15 @@
 
 </div>
 
-## To-Do List
-- [x] Problem Solving - 코테 연습
-- [x] Spring boot 책 읽고 공부 - 강의, 독학
-- [ ] Pytorch, tenserflow 익히기
-- [ ] 헤더파일 정의하고 사용하는 법 익히기 (cpp)
-- [ ] jQuery 생활코딩 강의
-- [ ] 정규표현식이 뭔지 공부해보기
-- [ ] 크롤러 만들어보기
+## Now-Do List
+- [x] Problem Solving - 코테 연습(with 종만북) 이번에는 깔짝대지않고 지대로 간다
+- [x] React 공부 -> 매우 시급!!!
+- [x] Rails 심화 공부 -> 플젝하면서 단련
+
+## Last-do List
+- [ ] Pytorch, tenserflow 익히기 -> 별로 안 중요함, 금방할 거 같음
+- [ ] 크롤러 만들어보기 -> 경험삼아서  뷰티풀수프, 셀레니움 해보기
+- [ ] Spring boot 책 읽고 공부 - 강의, 독학 -> 후 순위 나중에 스택확장이 필요하다 싶을 때 이어서 진행
 
 
 ##
