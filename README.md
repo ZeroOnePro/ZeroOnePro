@@ -80,7 +80,7 @@
 </div>
 
 ## Now-Do List
-- [x] Problem Solving - 코테 연습(with 종만북) 이번에는 깔짝대지않고 지대로 간다
+- [x] Problem Solving - 코테 연습(with 종만북) 이번에는 깔짝대지않고 지대로 간다, 내 풀이 되돌아 볼겸 유튭 영상을 찍어볼까 한다
 - [x] React 공부 -> 매우 시급!!!
 - [x] Rails 심화 공부 -> 플젝하면서 단련
 
