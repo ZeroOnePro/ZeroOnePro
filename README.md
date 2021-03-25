@@ -27,8 +27,12 @@
 </div>
 
 ## To Do List
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Todo&theme=yeblu)](https://github.com/Itsbeenalongday/Todo)
 
+<div align="center">
+ 
+ [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Todo&theme=solarized-light)](https://github.com/Itsbeenalongday/Todo)
+
+</div>
 
 <div align=center>
 
