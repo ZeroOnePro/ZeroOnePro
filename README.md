@@ -13,59 +13,6 @@
 <br/>
 
 <div align=center>
- 
- <code>
- <img src="https://cdn.svgporn.com/logos/react.svg" width="50" height="50" />
- </code>
-  <code>
- <img src="https://cdn.svgporn.com/logos/framework7.svg" width="50" height="50" />
- </code>
- <code>
- <img src="https://cdn.svgporn.com/logos/jquery.svg" width="50" height="50" />
- </code>
- 
-</div>
-
-<div align=center>
- <code>
- <img src="https://cdn.svgporn.com/logos/rails.svg" width="50" height="50" />
- </code>
- <code>
- <img src="https://cdn.svgporn.com/logos/spring.svg" width="50" height="50" />
- </code>
- 
-</div>
-
-<br/>
-
-<div align=center>
-
- <code>
- <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50" height="50" />
- </code>
- <code> 
- <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50" height="50" />
- </code>
- <code>
- <img src="https://cdn.svgporn.com/logos/sqlite.svg" width="50" height="50" />
- </code>
-
-</div>
-
-<br/>
-
-<div align="center">
- 
-<code>
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="50" height="50" />
-</code>
-
-</div>
-
-<br/>
-<br/>
-
-<div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
