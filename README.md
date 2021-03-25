@@ -10,7 +10,9 @@
 </div>
 
 <br/>
-<br/>
+<hr/>
+
+## Artifacts
 
 <div align=center>
 
@@ -25,6 +27,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=ErrorDB&theme=yeblu)](https://github.com/Itsbeenalongday/ErrorDB)
 
 </div>
+
+<br/>
+<hr/>
 
 ## To Do List
 
