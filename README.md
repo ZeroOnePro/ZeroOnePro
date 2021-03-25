@@ -8,9 +8,9 @@
 
  </a>
  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tjdals1771)](https://github.com/mazassumnida/mazassumnida)
- 
+ [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals1771)](https://solved.ac/tjdals1771)
+
 </div>
 
 <br/>
