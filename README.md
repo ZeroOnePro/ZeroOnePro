@@ -1,4 +1,4 @@
-# 👋 Introduce Myself...
+# 👋 It has been challenging a commit a day since July 11.
 
 <div align=center>
  <a href="https://github.com/Itsbeenalongday/github-stats">
