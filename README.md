@@ -1,4 +1,4 @@
-# 👋 It has been challenging a commit a day since July 11.
+# 👋 잔디 심기 챌린지.
 
 <div align=center>
 
