@@ -29,13 +29,17 @@
 
 </div>
 
-## [company account](https://github/insomenia-sungmin)
+## [company account](https://github.com/insomenia-sungmin)
 
 <div align="center">
  
  <img src="https://ghchart.rshah.org/0066ff/insomenia-sungmin" />
 
 </div>
+
+<br />
+<br />
+<br />
 
 <div align=center>
 
