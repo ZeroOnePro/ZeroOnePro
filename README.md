@@ -33,11 +33,10 @@
 
 <div align="center">
  
- <img src="https://ghchart.rshah.org/0066ff/insomenia-sungmin" />
+ <img src="https://ghchart.rshah.org/631c03/insomenia-sungmin" />
 
 </div>
 
-<br />
 <br />
 <br />
 
