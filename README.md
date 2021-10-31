@@ -1,4 +1,4 @@
-# 🌱 Restart! 🌱
+# 🌱 잡식성 Junior Developer 🌱
 
 <div align=center>
 
