@@ -33,7 +33,7 @@
 
 <div align="center">
  
- <img src="https://ghchart.rshah.org/631c03/insomenia-sungmin" />
+ <img src="https://ghchart.rshah.org/0e4429/insomenia-sungmin" />
 
 </div>
 
@@ -41,6 +41,7 @@
 <br />
 
 <div align=center>
+
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsbeenalongday)](https://hits.seeyoufarm.com)
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)](https://www.youtube.com/channel/UCn9XdNmBSqyIVlJLFm_7h1w?view_as=subscriber)
