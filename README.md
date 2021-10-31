@@ -29,11 +29,11 @@
 
 </div>
 
-## To Do List
+## [company account](https://github/insomenia-sungmin)
 
 <div align="center">
  
- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Todo&theme=solarized-light)](https://github.com/Itsbeenalongday/Todo)
+ <img src="https://ghchart.rshah.org/0066ff/insomenia-sungmin" />
 
 </div>
 
