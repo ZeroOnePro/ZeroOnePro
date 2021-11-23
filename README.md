@@ -1,4 +1,4 @@
-# 🌱 잡식성 Junior Developer 🌱
+# 💪 Traning Training Training 💪
 
 <div align=center>
 
