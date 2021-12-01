@@ -1,4 +1,4 @@
-# 💪 Traning Training Training at [Gym](https://github.com/Sparta-Gym) 💪
+# 💪 Training at [Gym](https://github.com/Sparta-Gym) 💪
 
 <div align=center>
 
