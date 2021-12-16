@@ -18,7 +18,7 @@
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Problem-Solving&theme=radical)](https://github.com/IZeroOnePro/Problem-Solving)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Problem-Solving&theme=radical)](https://github.com/ZeroOnePro/Problem-Solving)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Web&theme=cobalt)](https://github.com/ZeroOnePro/Web)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Machine-Learning&theme=great-gatsby)](https://github.com/ZeroOnePro/Machine-Learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=System&theme=blue-green)](https://github.com/ZeroOnePro/System)
