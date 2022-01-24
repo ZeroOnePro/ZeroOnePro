@@ -24,8 +24,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=System&theme=blue-green)](https://github.com/ZeroOnePro/System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Self-Study&theme=prussian)](https://github.com/ZeroOnePro/Self-Study)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Assignments&theme=tokyonight)](https://github.com/ZeroOnePro/Assignments)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=References&theme=vue-dark)](https://github.com/ZeroOnePro/References)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Of-one-s-own-script&theme=chartreuse-dark)](https://github.com/ZeroOnePro/Of-one-s-own-script)
 
 </div>
 
