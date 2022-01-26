@@ -31,7 +31,7 @@
 
 <div align="center">
  
- <img src="https://ghchart.rshah.org/insomenia-sungmin" />
+ <img src="https://ghchart.rshah.org/insomenia-sungmin?base=teal" />
 
 </div>
 
