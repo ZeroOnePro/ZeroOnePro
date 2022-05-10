@@ -27,14 +27,6 @@
 
 </div>
 
-## [company account](https://github.com/insomenia-sungmin)
-
-<div align="center">
- 
- <img src="https://ghchart.rshah.org/insomenia-sungmin?base=teal" />
-
-</div>
-
 <br />
 <br />
 
