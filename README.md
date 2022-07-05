@@ -2,8 +2,7 @@
 
 <div align=center>
 
- [![Solved.ac
- 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals1771)](https://solved.ac/tjdals1771)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeroOnePro&theme=highcontrast)](https://git.io/streak-stats)
  
  <a href="https://github.com/ZeroOnePro/github-stats">
   
