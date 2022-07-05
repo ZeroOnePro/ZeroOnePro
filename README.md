@@ -3,13 +3,9 @@
 <div align=center>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeroOnePro&theme=highcontrast)](https://git.io/streak-stats)
- 
- <a href="https://github.com/ZeroOnePro/github-stats">
   
-  ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-  ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
- </a>
+ ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
@@ -17,12 +13,12 @@
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Problem-Solving&theme=dark)](https://github.com/ZeroOnePro/Problem-Solving)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Web&theme=dark)](https://github.com/ZeroOnePro/Web)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Machine-Learning&theme=dark)](https://github.com/ZeroOnePro/Machine-Learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=System&theme=dark)](https://github.com/ZeroOnePro/System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Self-Study&theme=dark)](https://github.com/ZeroOnePro/Self-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Assignments&theme=dark)](https://github.com/ZeroOnePro/Assignments)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Problem-Solving&theme=github_dark)](https://github.com/ZeroOnePro/Problem-Solving)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Web&theme=github_dark)](https://github.com/ZeroOnePro/Web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Machine-Learning&theme=github_dark)](https://github.com/ZeroOnePro/Machine-Learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=System&theme=github_dark)](https://github.com/ZeroOnePro/System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Self-Study&theme=github_dark)](https://github.com/ZeroOnePro/Self-Study)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroOnePro&repo=Assignments&theme=github_dark)](https://github.com/ZeroOnePro/Assignments)
 
 </div>
 
