@@ -2,7 +2,7 @@
 
 <div align=center>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeroOnePro&theme=highcontrast&locale=ko)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeroOnePro&theme=github-dark&locale=ko)](https://git.io/streak-stats)
   
  ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  ![](https://raw.githubusercontent.com/ZeroOnePro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
