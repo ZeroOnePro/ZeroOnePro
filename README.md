@@ -9,6 +9,15 @@
 
 </div>
 
+<hr/>
+
+
+  ## OSS activities
+  1. [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+   - shell script to generate a table of content in a Markdown document
+   - [Fixed an issue in which the file path containing spaces could not be grepped](https://github.com/ekalinin/github-markdown-toc/pull/136)
+
+  
 <!--
  ## Artifacts
 
