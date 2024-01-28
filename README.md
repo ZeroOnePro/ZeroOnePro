@@ -1,4 +1,4 @@
-# 💪 Hello!! 💪
+# 💪 Web Application Developer at Samsung Electronics 💪
 
 <div align=center>
 
