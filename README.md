@@ -1,7 +1,5 @@
 # 💪 Introduce 💪
 
-I work as a web application developer at Samsung Electronics
-
 <div align=center>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeroOnePro&theme=github-dark&locale=ko)](https://git.io/streak-stats)
@@ -19,6 +17,11 @@ I work as a web application developer at Samsung Electronics
    - shell script to generate a table of content in a Markdown document
    - [Fixed an issue in which the file path containing spaces could not be grepped](https://github.com/ekalinin/github-markdown-toc/pull/136)
 
+ ## Work Experience
+ 
+ [insomenia](https://fingr.io/) / web full stack developer / 2020.12.30 ~ 2022.05.15
+
+ [samsung electronics](https://www.samsung.com/sec/) / web application developer / 2023.07.24 ~
   
 <!--
  ## Artifacts
