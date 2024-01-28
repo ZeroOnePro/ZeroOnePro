@@ -1,4 +1,6 @@
-# 💪 Web Application Developer at Samsung Electronics 💪
+# 💪 Introduce 💪
+
+I work as a web application developer at Samsung Electronics
 
 <div align=center>
 
